@@ -8,7 +8,8 @@ This repository contains a curated professional portfolio of public artifacts re
 
 ## Key documents
 
-- [Anthropic Research Residency CV](./cv/Daniel_Amlasawole_Anthropic_Research_Residency_CV_Optimized.docx)
+- [Anthropic Research Residency CV](./cv/Anthropic_Research_Residency_CV.md)
+- [APSENS commercial and evidence dossier (central lab source)](https://github.com/vlthrlabs/VLTHRLAB-MADS-APSENS/blob/admin-daniel/Daniel_Amlasawole_APSENS_Commercial_and_Evidence_Dossier.docx)
 - [APSENS v5 validation report](./evidence/V5_ROTATING_VIBRATION_VALIDATION_REPORT.md)
 - [APSENS v5 patched metrics](./evidence/v5_patched_metrics.json)
 - [Commercial dataset registry and headroom](./commercial/06_COMMERCIAL_DATASET_REGISTRY_AND_HEADROOM.md)
