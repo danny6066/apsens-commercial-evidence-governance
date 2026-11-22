@@ -2,6 +2,8 @@
 **Research, Operations & Compliance | AI Evidence Governance**
 
 LinkedIn: [linkedin.com/in/daniel-amlasawole-31a1b81a2](https://www.linkedin.com/in/daniel-amlasawole-31a1b81a2)  
+Phone: +48 572 805 045 · Email: amlasawoledaniel@gmail.com  
+LinkedIn: [linkedin.com/in/daniel-amlasawole-31a1b81a2](https://www.linkedin.com/in/daniel-amlasawole-31a1b81a2)  
 GitHub portfolio: https://github.com/danny6066/apsens-commercial-evidence-governance
 
 ## Professional Profile
